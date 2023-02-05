@@ -2,7 +2,6 @@ package org.daypilot.demo.html5eventcalendarspring.repository;
 
 import java.time.LocalDateTime;
 import java.util.List;
-
 import org.daypilot.demo.html5eventcalendarspring.domain.Event;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
