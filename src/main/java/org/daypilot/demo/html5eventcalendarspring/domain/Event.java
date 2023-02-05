@@ -1,9 +1,7 @@
 package org.daypilot.demo.html5eventcalendarspring.domain;
 
 import jakarta.persistence.*;
-
 import java.time.LocalDateTime;
-
 @Entity
 public class Event {
 
